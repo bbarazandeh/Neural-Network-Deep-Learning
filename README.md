@@ -1,4 +1,4 @@
-### *Note: some codes may be written from other sources*
+#### *Note: some codes may be written from other sources*
 
 # Neural-Network-Deep-Learning
 
@@ -13,3 +13,9 @@ In this notebook an implementation of UNet has been done.
 
 ## Under Water Animal Recognition
 In this notebook Faster R-CNN is implemented. Next, Region Based CNNs are compared. Then one-stage and two-stage models are compared.
+
+## Smart Maintance
+Using neural netowkrs for maintance.
+
+## Persian Word Feeling Analysis
+In the notebook, neural netowrk is used to find out the feelings over persian written words.
