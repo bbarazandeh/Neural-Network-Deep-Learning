@@ -29,5 +29,14 @@ In this notebook, transformers are used to classify photos.
 ## VAE
 In this notebook VAE and VQ-VAE are implemented.
 
-##Image Translation
+## Image Translation
 Image Translation and Pix2Pix are implemented.
+
+## Label Creation with Clustering
+Labels are created with clustering method
+
+## Data Augmentation Using FaBert
+
+## Wake Word
+
+## Image Segmentation Network
