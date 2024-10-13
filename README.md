@@ -19,3 +19,9 @@ Using neural netowkrs for maintance.
 
 ## Persian Word Feeling Analysis
 In the notebook, neural netowrk is used to find out the feelings over persian written words.
+
+## BERT & CT-BERT
+In this notebook, CT-BERT and BERT is used to detect fake and true news.
+
+## Transformers in Photo Classifcication
+In this notebook, transformers are used to classify photos.
