@@ -25,3 +25,9 @@ In this notebook, CT-BERT and BERT is used to detect fake and true news.
 
 ## Transformers in Photo Classifcication
 In this notebook, transformers are used to classify photos.
+
+## VAE
+In this notebook VAE and VQ-VAE are implemented.
+
+##Image Translation
+Image Translation and Pix2Pix are implemented.
